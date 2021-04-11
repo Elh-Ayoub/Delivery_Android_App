@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order App</string>
+    <string name="txtHome">Неважно, где вы находитесь, дома ли вы или в офисе. Мы найдем вас и покормим.</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="phone_number">Номер телефон</string>
+    <string name="password">пароль</string>
+    <string name="name">имя</string>
+    <string name="don_t_have_an_account_sign_up">У вас нет аккаунта? Зарегистрироваться</string>
+    <string name="already_have_an_account_log_in">Уже есть аккаунт? Войти</string>
+    <string name="title_activity_home">Прием</string>
+    <string name="action_settings">Языковые настройки</string>
+    <string name="menu">Меню</string>
+    <string name="cart">телега</string>
+    <string name="orders">заказы</string>
+    <string name="logout">Выйти</string>
+    <string name="total">Общее количество :</string>
+    <string name="refresh">обновление</string>
+    <string name="fpsw">Забыли пароль ?</string>
+    <string name="place_order">Разместить заказ</string>
+    <string name="you_have_have_a_problem_with_something">У вас есть проблемы с чем-то?</string>
+    <string name="complaint_or_opinion">Жалоба или Мнение</string>
+    <string name="send">Отправлять</string>
+    <string name="contacts">Контакты:</string>
+    <string name="remember_me">Запомни меня</string>
+    <string name="city_kharkiv">Город: Харьков</string>
+    <string name="comment">Комментарий</string>
+    <string name="address">Адрес</string>
+    <string name="payment_method">Способ оплаты</string>
+    <string name="you_will_get_a_message_as_soon_as_possible">Вы получите сообщение как можно скорее</string>
+    <string name="help">Помогите</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Order App</string>
+    <string name="txtHome">No matter where you are, whether you are at home  or office. We will find you and feed you.</string>
+    <string name="todo1" translatable="false">TODO1</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Language Settings</string>
+
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="logout">Logout</string>
+    <string name="total">Total :</string>
+    <string name="refresh">Refresh</string>
+    <string name="fpsw">Forgot Password ?</string>
+    <string name="place_order">Place Order</string>
+    <string name="you_have_have_a_problem_with_something">You have have a problem with something ?</string>
+    <string name="complaint_or_opinion">Complaint or Opinion</string>
+    <string name="send">Send</string>
+    <string name="contacts">Contacts :</string>
+    <string name="remember_me">Remember me</string>
+    <string name="city_kharkiv">City : Kharkiv</string>
+    <string name="comment">Comment</string>
+    <string name="address">Address</string>
+    <string name="payment_method">Payment method</string>
+    <string name="you_will_get_a_message_as_soon_as_possible">You will get a message as soon as possible</string>
+    <string name="help">Help</string>
+</resources>
